@@ -1,0 +1,17 @@
+{
+  "name": "web-dashboard-sync",
+  "version": "1.0.0",
+  "description": "Web Dashboard Sync processes",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "kafka-rest": "0.0.5",
+    "moment-timezone": "^0.5.14",
+    "pg": "^7.4.1",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^4.32.1",
+    "sequelize-cli": "^3.2.0"
+  }
+}
