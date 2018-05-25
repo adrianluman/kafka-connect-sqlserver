@@ -11,7 +11,5 @@
     "moment-timezone": "^0.5.14",
     "pg": "^7.4.1",
     "pg-hstore": "^2.3.2",
-    "sequelize": "^4.32.1",
-    "sequelize-cli": "^3.2.0"
   }
 }
