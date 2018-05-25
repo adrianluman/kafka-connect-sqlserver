@@ -12,4 +12,4 @@ add_executable(Consumer Consumer.cpp)
 add_definitions(-DBOOST_LOG_DYN_LINK)
 
 
-target_link_libraries(BondClient -lboost_system -lboost_thread -lboost_log -lpthread -lboost_date_time -lcppkafka -lserdes -lrdkafka -lavro -ljson11)
+target_link_libraries(BondClient -lcppkafka -lserdes -lrdkafka -lavro -ljson11)
